@@ -18,6 +18,9 @@ export const sources: RssSource[] = [
   { id: 'linuxmint', name: 'Linux Mint Blog', url: 'https://blog.linuxmint.com/feed/', category: 'Distro & OS News', website: 'https://blog.linuxmint.com' },
   { id: 'endeavouros', name: 'EndeavourOS', url: 'https://endeavouros.com/feed/', category: 'Distro & OS News', website: 'https://endeavouros.com' },
   { id: 'manjaro', name: 'Manjaro Linux', url: 'https://manjaro.org/feed/', category: 'Distro & OS News', website: 'https://manjaro.org' },
+  { id: 'acreetionos-blog', name: 'AcreetionOS Blog', url: 'https://acreetionos.org/blog.html', category: 'Distro & OS News', website: 'https://acreetionos.org' },
+  { id: 'acreetionos-news', name: 'AcreetionOS Newsletter', url: 'https://acreetionos.org/newsletters/list.json', category: 'Distro & OS News', website: 'https://acreetionos.org' },
+  { id: 'acreetionos-github', name: 'AcreetionOS GitHub', url: 'https://github.com/AcreetionOS-Code/acreetionos/releases.atom', category: 'Distro & OS News', website: 'https://github.com/AcreetionOS-Code' },
 
   // 2. Linux & Open Source (10)
   { id: 'phoronix', name: 'Phoronix', url: 'https://www.phoronix.com/rss.php', category: 'Linux & Open Source', website: 'https://www.phoronix.com' },
